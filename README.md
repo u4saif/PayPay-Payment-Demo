@@ -1,4 +1,4 @@
-# PayPay-Payment-Demo
+# _PayPay-Payment-Demo_
 PayPay Payment Demo in Angular 8.
 
 In this Project we have implemented the frontend of PayPal checkout and hosted the site on Google firebase hosting.
