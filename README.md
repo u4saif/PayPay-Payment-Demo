@@ -11,7 +11,7 @@ This project shows how to capture the user's details and make a payment for the 
 Note: Command used for firebase Deployemnt are as follow. 
 
 Firstly buld the project with **ng build --prod**
-Now install the fire base toll in your machine to make use of Google fire base cli. **firebase login** **firebase list (to select project)**  **npm i -g firebase-tools**
+Now install the firebase tolls **npm i -g firebase-tools** in your machine to make use of Google fire base cli. **firebase login** **firebase list (to select project)**  
 
 Initialize the directory firebase init make sure you change the path for project to **/dist/name_of_your_project** by default it would be public 
 
